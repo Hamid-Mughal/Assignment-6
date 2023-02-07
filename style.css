@@ -1,0 +1,189 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+span{
+    color:  #FDC221;
+}
+i{
+    color:  #FDC221;  
+}
+    .navbar-link > a{
+        color: #FDC221;
+    
+    }
+    h2{
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 41px;
+        text-transform: capitalize;
+        
+        color: #404041;
+
+    }
+    p{
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 20px;
+        
+        color: #979797; 
+    }
+    
+    .image-header{
+        height: 500px;
+        width: 1000px;
+    }
+    
+    .image-header > img{
+        margin-top: 30px;  
+        height: 470px;
+    }
+    /* blue section button */
+    .btna{
+        margin-top: 70px;
+    }
+    .btna > button{
+        width: 280px;
+        height: 64px;
+        border-radius: 70px;
+        border: none;
+        background: linear-gradient(96.97deg, #F79E0E 7.82%, #EEBD23 103.98%);
+        font-family: 'Roboto';
+        font-style: normal; 
+        font-weight: 500;
+        font-size: 21px;
+        color: #FFFFFF;
+    }
+    /* submain1 */
+    
+    .btnb{
+        margin-top: 30px;
+    }
+    .btnb > button{
+        width: 120px;
+        border: none;
+        background: linear-gradient(96.97deg, #F79E0E 7.82%, #EEBD23 103.98%);
+        font-family: 'Roboto';
+        font-style: normal; 
+        font-weight: 500;
+        font-size: 21px;
+        color: #FFFFFF;
+
+    }
+    #pakage{
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        margin-top: 20px;
+        line-height: 20px;
+        color: #979797;
+    }
+    /* cards button */
+    .box1{
+        width: 285px;
+        height: 603px;
+        left: 0px;
+        top: 177px;
+
+        background: #FCFAED;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 21px;
+    }
+    .box2{
+        width: 305px;
+        height: 630px;
+        left: 305px;
+        top: 146px;
+
+        background: #294199;
+        box-shadow: 0px 4px 4px #6A6A6A;
+        border-radius: 21px;
+    }
+    .row{
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    .btnc{
+        margin-top: 250px;
+    }
+    .btnc > button{
+        width: 165px;
+        height: 45px;
+        border-radius: 70px;
+        border: 3px solid #F79E0E  ;
+        /* background: linear-gradient(96.97deg, #F79E0E 7.82%, #EEBD23 103.98%); */
+        font-family: 'Roboto';
+        font-style: normal; 
+        font-weight: 500;
+        font-size: 21px;
+        color: #F79E0E ;
+        background-color: #FCFAED;
+    }
+    .btnd{
+        margin-top: 130px;
+    }
+    .btnd > button{
+        width: 165px;
+        height: 45px;
+        border-radius: 70px;
+        border: none;
+        background: linear-gradient(96.97deg, #F79E0E 7.82%, #EEBD23 103.98%);
+        font-family: 'Roboto';
+        font-style: normal; 
+        font-weight: 500;
+        font-size: 21px;
+        color: #FFFFFF;
+    }
+    .btne{
+        margin-top: 80px;
+    }
+    .btne > button{
+        width: 165px;
+        height: 45px;
+        border-radius: 70px;
+        border: 3px solid #F79E0E  ;
+        font-family: 'Roboto';
+        font-style: normal; 
+        font-weight: 500;
+        font-size: 21px;
+        color: #F79E0E ;
+        background-color: #FCFAED;
+    }
+
+     /* submain2 */
+
+     .btnf{
+        margin-top: 20px;
+    }
+    .btnf > button{
+        width: 180px;
+        height: 50px;
+        border: none;
+        background: linear-gradient(96.97deg, #F79E0E 7.82%, #EEBD23 103.98%);
+        font-family: 'Roboto';
+        font-style: normal; 
+        font-weight: 500;
+        font-size: 21px;
+        color: #FFFFFF;
+    }
+    .offers{
+        margin-top: 10px;
+        line-height: 30px;
+        font-size:15px ; 
+        font-family: 'Nunito Sans' ; 
+        font-weight:400 ; font-style: normal;
+        color: #979797 
+    }
+    .image{
+        margin-top: 100px;
+
+       width: 1500px;
+
+    }
